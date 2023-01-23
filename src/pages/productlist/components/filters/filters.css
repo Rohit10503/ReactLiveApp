@@ -1,0 +1,47 @@
+.filter-heading{
+    font-size: 18px;
+    line-height: 21px;
+    color: #1E2228;
+    font-weight: bold;
+    
+}
+.filter-main{
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 20px;
+}
+.brand-top{
+    display :flex;
+    justify-content: space-between;
+    
+}
+.viewall{
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+    color:#FF2C91;
+    text-align: right;
+}
+
+.filter-section-heading{
+    font-size: 14px;
+    line-height: 16px;
+    color: #1E2228;
+    font-weight: bold;
+    margin: 0px;
+}
+.brand-option{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+.price{
+    margin:35px 0 15px 0 ;
+}
+.custom-price-value{
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E2228;
+    font-weight: bold;
+}

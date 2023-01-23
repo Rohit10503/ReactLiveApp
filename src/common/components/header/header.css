@@ -1,0 +1,36 @@
+.main-content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:25px 0px;
+}
+.left-content,.right-content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.custom-width{
+    width:400px;
+    
+}
+.pink{
+    background-color:#FF2C91;
+    color: white;
+}
+.header-text{
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    color:#1D252D;
+    font-weight: bold;
+}
+.marginLeft20{
+    margin-left: 20px;
+}
+.header-icon{
+    
+    align-items: center;
+    cursor:pointer
+
+}

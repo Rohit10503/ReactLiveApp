@@ -1,0 +1,40 @@
+.register-main{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center ;
+}
+.main-head{
+    font-family: gilroy;
+    font-style: normal;
+    font-weight: 800;
+    font-size:36px;
+    line-height: 40px;
+    color: #1E2228;
+    margin-bottom: 40px;
+
+}
+.text-pink{
+    font-family: gilroy;
+    color:#FF2C91;
+    text-decoration: none;
+}
+.link-small{
+    font-size: 14px;
+    line-height: 16px;
+}
+.text-right{
+    text-align: right;
+}
+.bold{
+    line-height: 19px;
+    font-size:18px;
+    font-weight:600;
+}
+.main-button{
+    width:100%;
+    background-color: #FF2C91;
+    border-radius: 6px;
+    border:none;
+    color:white;
+}

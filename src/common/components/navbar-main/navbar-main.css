@@ -1,0 +1,29 @@
+.custom-nav-link{
+    color:white;
+    font-size: 16px;
+    font-weight:bold;
+}
+.navbar-nav .custom-nav-link.active{
+    color:#FF2C91;
+}
+
+.nav-main{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+     
+}
+
+
+.offer-text{
+    color:white;
+     font-weight:bold ;
+}
+.sub-button{
+    
+    background-color: #FF2C91;
+    border-radius: 6px;
+    border:none;
+    color:white;
+}
